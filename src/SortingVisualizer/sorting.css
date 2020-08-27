@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    
+ 
+}
+
+.bar {
+    width:10px;
+    background-color: aquamarine;
+    margin: 2px;
+
+}
